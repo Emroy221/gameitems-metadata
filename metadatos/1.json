@@ -1,7 +1,7 @@
 {
   "name": "Espada de Bronce",
   "description": "Un arma básica forjada con bronce. Ideal para principiantes.",
-  "image": "https://github.com/Emroy221/gameitems-metadata/blob/main/img/Espada_Bronce.png",
+  "image": "https://raw.githubusercontent.com/Emroy221/gameitems-metadata/refs/heads/main/img/Espada_Bronce.png",
   "attributes": [
     { "trait_type": "Tipo", "value": "Arma" },
     { "trait_type": "Rareza", "value": "Común" },
