@@ -1,7 +1,7 @@
 {
   "name": "Escudo del Guardián",
   "description": "Escudo de élite capaz de bloquear ataques mágicos.",
-  "image": "https://github.com/Emroy221/gameitems-metadata/blob/main/img/Escudo_Guardian.png",
+  "image": "https://raw.githubusercontent.com/Emroy221/gameitems-metadata/refs/heads/main/img/Escudo_Guardian.png",
   "attributes": [
     { "trait_type": "Tipo", "value": "Defensa" },
     { "trait_type": "Rareza", "value": "Raro" },
