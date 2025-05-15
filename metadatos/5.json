@@ -1,7 +1,7 @@
 {
   "name": "Amuleto del Fénix",
   "description": "Artefacto mágico que resucita al portador una vez por combate.",
-  "image": "https://github.com/Emroy221/gameitems-metadata/blob/main/img/Amuleto_Fenix.png",
+  "image": "https://raw.githubusercontent.com/Emroy221/gameitems-metadata/refs/heads/main/img/Amuleto_Fenix.png",
   "attributes": [
     { "trait_type": "Tipo", "value": "Artefacto" },
     { "trait_type": "Rareza", "value": "Épico" },
