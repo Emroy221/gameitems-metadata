@@ -1,7 +1,7 @@
 {
   "name": "Poción de Vida",
   "description": "Restaura la salud del jugador. Útil en combate.",
-  "image": "https://github.com/Emroy221/gameitems-metadata/blob/main/img/Pocion_Vida.png",
+  "image": "https://raw.githubusercontent.com/Emroy221/gameitems-metadata/refs/heads/main/img/Pocion_Vida.png",
   "attributes": [
     { "trait_type": "Tipo", "value": "Consumible" },
     { "trait_type": "Rareza", "value": "Común" },
