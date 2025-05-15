@@ -1,0 +1,11 @@
+{
+  "name": "Dragón de Fuego",
+  "description": "Una criatura legendaria que acompaña y protege a su dueño. Majestuosa y letal.",
+  "image": "https://github.com/Emroy221/gameitems-metadata/blob/main/img/Dragon.png",
+  "attributes": [
+    { "trait_type": "Tipo", "value": "Mascota" },
+    { "trait_type": "Rareza", "value": "Legendaria" },
+    { "trait_type": "Fuerza", "value": 100 },
+    { "trait_type": "Habilidad especial", "value": "Aliento de fuego" }
+  ]
+}
