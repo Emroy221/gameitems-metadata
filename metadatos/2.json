@@ -1,7 +1,7 @@
 {
   "name": "Espada de Diamante",
   "description": "Una espada legendaria que corta la oscuridad misma.",
-  "image": "https://github.com/Emroy221/gameitems-metadata/blob/main/img/Espada_Diamante.png",
+  "image": "https://raw.githubusercontent.com/Emroy221/gameitems-metadata/refs/heads/main/img/Espada_Diamante.png",
   "attributes": [
     { "trait_type": "Tipo", "value": "Arma" },
     { "trait_type": "Rareza", "value": "Legendaria" },
